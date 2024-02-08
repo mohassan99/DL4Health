@@ -1,7 +1,5 @@
-# DL4Health  
-  
-**Deep Learning for Healthcare**  
-  
+# Deep Learning for Healthcare  
+    
 •	Deep Neural Networks (DNN}  
 •	Embedding   
 •	Convolutional Neural Networks (CNN)  
